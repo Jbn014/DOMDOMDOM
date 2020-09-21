@@ -1,0 +1,12 @@
+.square {
+    float: left;
+    height: 50px;
+    width: 50px;
+    background: #555;
+    text-align: center;
+    line-height: 45px;
+}
+
+.p {
+    float : right;
+}
